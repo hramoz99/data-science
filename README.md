@@ -1,4 +1,4 @@
 <h1>
     <h1 align="center">
-    <img src="https://penseemti.com.br/wp-content/uploads/2019/01/python-logo.png" height="200" width="500">
+    <img src="https://user-images.githubusercontent.com/78046279/158472468-6eb002ab-b6bf-41c1-9277-7d60d0ce9fac.png" height="300" width="300">
 </h1>
