@@ -18,7 +18,7 @@ canvas.pack()
 
 root.update()
 
-# Variável
+
 count = 0
 lost = False
 
