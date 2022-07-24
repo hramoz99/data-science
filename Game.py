@@ -108,7 +108,7 @@ class Bola:
             global lost
             lost = True
 
-# Classe
+# Class
 class Barra:
     def __init__(self, canvas, color):
 
